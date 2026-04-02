@@ -2,7 +2,7 @@ package com.example;
 
 public class App {
     
-    // Check if number is Even or Odd
+    
     public String checkEvenOdd(int number) {
         return (number % 2 == 0) ? "Even" : "Odd";
     }
