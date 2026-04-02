@@ -37,5 +37,6 @@ public class App {
         System.out.println("Type: " + app.checkEvenOdd(num));
         System.out.println("Sum of Digits: " + app.sumOfDigits(num));
         System.out.println("Reverse: " + app.reverseNumber(num));
+        System.out.println("Build Completed");
     }
 }
